@@ -2,7 +2,10 @@
 
 This repository contains a Jupyter Notebook (`grpo_thinking.ipynb`) for training a Large Language Model (LLM) to "think" or reason using **Group Relative Policy Optimization (GRPO)**.
 
+
 It uses [Unsloth](https://github.com/unslothai/unsloth) for efficient 4-bit training and is designed to run on a free **Google Colab T4 GPU** instance.
+
+<a href="https://colab.research.google.com/drive/1ir3p7I8iR6sWPV84fhC3gCmt1v1H3z17?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Overview
 
